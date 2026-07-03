@@ -10,11 +10,12 @@ const NotFound = () => {
       </h1>
       
       <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-4">
-        ¡Ups! Página no encontrada
+        ¡Ups! Página no encontrada.
       </h2>
       
       <p className="text-gray-500 text-lg mb-8 max-w-md mx-auto">
-        Parece que te perdiste buscando el termo perfecto. La página que intentas visitar no existe o ha sido movida
+        Parece que te perdiste buscando el termo perfecto. 
+        La página que intentas visitar no existe o ha sido movida
       </p>
    
       <Link 
