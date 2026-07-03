@@ -21,7 +21,7 @@ const Home = () => {
               textShadow: '2px 2px 0px #fff, -2px -2px 0px #fff, 2px -2px 0px #fff, -2px 2px 0px #fff, 0px 4px 10px rgba(0,0,0,0.1)' 
             }}
           >
-            Termos Pinkys<br />Estilo y Calidad
+            Termos Pinkys<br />Estilo y Calidad.
           </h1>
 
           <p className="text-white text-sm md:text-base font-medium leading-relaxed mb-8 drop-shadow-md">
