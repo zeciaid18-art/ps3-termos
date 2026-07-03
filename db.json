@@ -1,0 +1,43 @@
+[
+  {
+    "id":1,"nombre":"Termo Pinky Clásico 1L",
+  "categoria":"Acero Inoxidable",
+  "precio":65,
+  "stock":15,
+  "imagen":"/assets/images/termo-agarre.jpg"
+},
+
+  {
+    "id":2,"nombre":"Termo Pinky Mini 500ml",
+  "categoria":"Portátiles",
+  "precio":45,
+  "stock":8,
+  "imagen":"/assets/images/termo-brillante.jpg"
+},
+  {
+    "id":3,"nombre":"Termo Corazón Special",
+  "categoria":"Diseño Exclusivo",
+  "precio":85,
+  "stock":10,
+  "imagen":"/assets/images/termo-corazon.jfif"
+},
+  {
+    "id":4,"nombre":"Termo Floral Spring",
+  "categoria":"Botánicos",
+  "precio":75,"stock":5,
+  "imagen":"/assets/images/termo-floral.webp"
+},
+  {
+    "id":5,"nombre":"Termo Sport Activo",
+  "categoria":"Deportivos",
+  "precio":55,"stock":20,
+  "imagen":"/assets/images/tmo-deporte.jpg"
+},
+  {
+    "id":6,"nombre":"Termo Unicorn Magic",
+  "categoria":"Infantil",
+  "precio":48,
+  "stock":12,
+  "imagen":"/assets/images/termo-unicornio.jfif"
+  }
+]
