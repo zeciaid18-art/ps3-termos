@@ -4,7 +4,10 @@ const Home = () => {
   return (
 
     <div 
-      className="relative w-full min-h-[85vh] flex items-center bg-cover bg-center bg-no-repeat"
+      className="relative w-full min-h-[85vh] 
+      flex items-center
+       bg-cover bg-center 
+       bg-no-repeat"
       style={{ backgroundImage: "url('/assets/images/fondo-3.jpg')" }}
     >
       <div className="container mx-auto px-6 md:px-16 lg:px-24 flex items-center">

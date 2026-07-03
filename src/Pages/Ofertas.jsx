@@ -34,7 +34,7 @@ const Ofertas = () => {
       <div className="text-center mb-12">
         <h1 className="text-4xl md:text-5xl font-bold text-[#F34484] mb-4">Ofertas Exclusivas</h1>
         <p className="text-gray-500 text-lg max-w-2xl mx-auto">
-          Aprovecha nuestros descuentos especiales por tiempo limitado. ¡No te quedes sin tu termo favorito!
+          Aprovecha nuestros descuentos especiales por tiempo limitado. ¡No te quedes sin tu termo favorito!.
         </p>
       </div>
 
@@ -61,7 +61,7 @@ const Ofertas = () => {
             </div>
 
             <button className="w-full bg-[#F34484] hover:bg-[#D81B60] text-white font-bold py-3 px-6 rounded-full transition-colors shadow-md">
-              Agregar al Carrito
+              Agregar al Carrito pinky
             </button>
             
           </div>

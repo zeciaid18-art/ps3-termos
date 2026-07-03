@@ -29,8 +29,11 @@ const Contact = () => {
   };
 
   return (
-    <div className="max-w-2xl mx-auto p-8 bg-white rounded-xl shadow-sm mt-10 border border-[#FFD1DC] mb-12">
-      <h1 className="text-3xl font-bold text-[#ff69b4] mb-6 text-center">Contáctanos</h1>
+    <div className="max-w-2xl mx-auto p-8
+     bg-white rounded-xl shadow-sm mt-10 border
+      border-[#FFD1DC] mb-12">
+      <h1 className="text-3xl font-bold
+       text-[#ff69b4] mb-6 text-center">Contáctanos</h1>
       
       {enviado && (
         <div className="bg-green-50 border border-green-200 text-green-700 px-4 py-3 rounded-md mb-6 text-center font-medium">
@@ -43,10 +46,14 @@ const Contact = () => {
           <label className="block text-gray-700 font-bold mb-2">Nombre completo</label>
           <input 
             type="text" name="nombre" value={formData.nombre} onChange={handleChange}
-            className="w-full px-4 py-2.5 border border-gray-300 rounded-md focus:outline-none focus:border-[#ff69b4] focus:ring-1 focus:ring-[#ff69b4] transition-colors"
+            className="w-full px-4 py-2.5 border
+             border-gray-300 rounded-md focus:outline-none
+              focus:border-[#ff69b4] focus:ring-1
+               focus:ring-[#ff69b4] transition-colors"
             placeholder=""
           />
-          {errores.nombre && <p className="text-red-500 text-sm mt-1.5">{errores.nombre}</p>}
+          {errores.nombre && <p className=
+          "text-red-500 text-sm mt-1.5">{errores.nombre}</p>}
         </div>
         
         <div>

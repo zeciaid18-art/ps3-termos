@@ -79,7 +79,7 @@ const Productos = () => {
             </p>
             <div className="px-6 w-full mt-auto">
               <button className="w-full border-2 border-[#FFB6C1] text-[#FF69B4] font-bold py-2 rounded-md hover:bg-[#FFF0F5] transition-colors duration-300">
-                Agregar al Carrito
+                Agregar al Carrito Pinky
               </button>
             </div>
             
