@@ -6,7 +6,6 @@ import Productos from './Pages/Productos'
 import Ofertas from './Pages/Ofertas'
 import Contact from './Pages/Contact'
 import NotFound from './Pages/NotFound'
-
 function App() {
   return (
     <div className="flex flex-col min-h-screen">
